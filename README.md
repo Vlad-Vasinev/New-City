@@ -1,7 +1,7 @@
 # This is New City
 
 ## This project is about: 💻
-- making responsive website for popular house building Russian company
+- making responsive website for popular house building company in Russia
 
 ## This project is using:
 - html: for creating html-layout 💡
