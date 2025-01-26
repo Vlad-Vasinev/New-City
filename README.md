@@ -1,4 +1,4 @@
-# This is New City
+# New City
 - click the left bottom corner in order to see list of pages
   - <img src="https://github.com/Vlad-Vasinev/Vlad-Vasinev/blob/main/list%20of%20pages.PNG" width="250">
   
